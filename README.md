@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and Discord Bot development
 - 🌱 I’m currently learning in RBU Nagpur in ECS Branch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email:- kaisenn277@gmail.com
+- 📫 How to reach me by email:- bharatdigrase276@gmail.com
 - ⚡ Fun fact: Love Playing Games
 
 <!---
