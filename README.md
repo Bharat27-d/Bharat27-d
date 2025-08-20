@@ -1,21 +1,67 @@
-# 💫 About Me:
-👋 Hi, I’m @Bharat27-d<br>👀 I’m interested in Web development and Discord Bot development<br>🌱 I’m currently learning JavaScript and React.js<br>📫 How to reach me by email:- bharatdigrase276@gmail.com<br>⚡ Fun fact: Love Playing Video Games
+# 👋 Hi, I'm Bharat Digrase
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Software-Developer-blue" alt="Software Developer"/>
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB" alt="React Expert"/>
+  <img src="https://img.shields.io/badge/Node.js-Enthusiast-339933" alt="Node.js Enthusiast"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bharat_d_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-digrase-2064a4315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharatdigrase276@gmail.com) 
+## 💫 About Me
+```javascript
+const bharat = {
+  location: "Nagpur, India",
+  role: "Full-Stack Developer",
+  education: "B.Tech in Computer Science & Engineering",
+  skills: ["Problem-Solving", "Rapid Prototyping", "Full-Stack Development"],
+  currentlyLearning: "Advanced React Patterns & System Design",
+  funFact: "I can build a working prototype in a weekend!"
+};
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bharat27-d&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bharat27-d&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat27-d&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔭 Current Projects
+- **Portfolio Website** - Personal site showcasing projects, built with React.js, animations, and responsive UI
+- **Smart Logistics System** - Real-time fleet tracking and route optimization using React.js, Node.js, and Google Maps API
+- **Event Management System** - Platform for managing virtual events and coordinating team roles
+
+## 💼 Professional Experience
+- **Software Developer Intern** @ GrowthSphere Industries (Jan 2025 - June 2025)
+- **Freelance Software Developer** (Feb 2025 - Present)
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat27-d&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat27-d&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📫 Connect With Me
+<div align="center">
+  <a href="mailto:bharatmain27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/bharatdigrase">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/bharatdigrase">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bharat27-d&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 "Good code is its own best documentation."
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bharat27-d&color=blueviolet" alt="profile views" />
+</div>
