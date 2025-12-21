@@ -1,63 +1,79 @@
-# 👋 Hi, I'm Bharat Digrase
+<h1 align="center">Hi 👋, I'm Bharat</h1>
+<h3 align="center">Full Stack Developer | Bot Builder | Tech Explorer</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Software-Developer-blue" alt="Software Developer"/>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB" alt="React Expert"/>
-  <img src="https://img.shields.io/badge/Node.js-Enthusiast-339933" alt="Node.js Enthusiast"/>
-</div>
-
-## 💫 About Me
-```javascript
-const bharat = {
-  location: "Nagpur, India",
-  role: "Full-Stack Developer",
-  education: "B.Tech in Computer Science & Engineering",
-  skills: ["Problem-Solving", "Rapid Prototyping", "Full-Stack Development"],
-  currentlyLearning: "Advanced React Patterns & System Design",
-  funFact: "I can build a working prototype in a weekend!"
-};
-```
-
-## 🛠️ Tech Stack
-<div align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" /> </div>
-
-## 🌐 Portfolio
-
-Check out my personal portfolio for my latest work and projects:
-👉 https://bharat27.netlify.app/
-
-## 🔭 Current Projects
-- **Portfolio Website** - Personal site showcasing projects, built with React.js, animations, and responsive UI
-- **Smart Logistics System** - Real-time fleet tracking and route optimization using React.js, Node.js, and Google Maps API
-- **Event Management System** - Platform for managing virtual events and coordinating team roles
-
-## 💼 Professional Experience
-- **Software Developer Intern** @ GrowthSphere Industries (Jan 2025 - June 2025)
-- **Freelance Software Developer** (Feb 2025 - Present)
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat27-d&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat27-d&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 📫 Connect With Me
-<div align="center">
-  <a href="mailto:bharatmain27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/bharatdigrase">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/bharatdigrase">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0d1117&style=flat" />
+</p>
 
 ---
 
-### 💡 "Good code is its own best documentation."
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharat27-d&color=blueviolet" alt="profile views" />
-</div>
+- 💻 Passionate about **building real-world applications**
+- 🤖 Specialized in **Discord bots & automation systems**
+- 🌐 Love creating **dashboards, APIs, and tools**
+- 🚀 Focused on **clean code & scalable solutions**
+- 📚 Always learning something new in tech
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
+
+**Bots & Automation**
+
+![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord)
+![APIs](https://img.shields.io/badge/APIs-0d1117?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🚀 What I Build
+
+- 🔹 Discord bots with **web dashboards**
+- 🔹 Event & ticket management systems
+- 🔹 Automation & tracking tools
+- 🔹 Backend APIs & admin panels
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build useful things. Keep improving.”</i>
+</p>
