@@ -68,7 +68,7 @@ Web Systems
 <h3>📊 GitHub at a Glance</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat27-d&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
 </p>
 
 ---
