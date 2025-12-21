@@ -1,79 +1,87 @@
-<h1 align="center">Hi 👋, I'm Bharat</h1>
-<h3 align="center">Full Stack Developer | Bot Builder | Tech Explorer</h3>
+<h2 align="center">Bharat</h2>
+<p align="center"><i>Engineering mind • Building systems that scale</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0d1117&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=800&color=6E7681&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Automation+%26+Bot+Engineer;Clean+Code+%7C+Real+World+Products" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h3>⚡ What I Do</h3>
 
-- 💻 Passionate about **building real-world applications**
-- 🤖 Specialized in **Discord bots & automation systems**
-- 🌐 Love creating **dashboards, APIs, and tools**
-- 🚀 Focused on **clean code & scalable solutions**
-- 📚 Always learning something new in tech
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
-
-**Bots & Automation**
-
-![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord)
-![APIs](https://img.shields.io/badge/APIs-0d1117?style=for-the-badge)
+<ul>
+  <li>⚙️ Scalable <b>backend architectures</b></li>
+  <li>🤖 <b>Discord bots</b> with dashboards & automation</li>
+  <li>🌐 Admin panels, APIs, internal tools</li>
+  <li>🧠 Logic-driven, reliable, clean systems</li>
+</ul>
 
 ---
 
-## 📊 GitHub Stats
+<h3>🧩 Current Focus</h3>
+
+<pre>
+• Advanced bot + dashboard integrations
+• Event & staff management systems
+• Automation for communities & teams
+</pre>
+
+---
+
+<h3>🛠️ Toolkit</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🚀 What I Build
+<h3>🚀 Selected Work</h3>
 
-- 🔹 Discord bots with **web dashboards**
-- 🔹 Event & ticket management systems
-- 🔹 Automation & tracking tools
-- 🔹 Backend APIs & admin panels
+<pre>
+Real-Ops Dashboards
+→ Event creation & scheduling
+→ Staff control & permissions
+→ Ticket systems with analytics
+
+Automation Bots
+→ Attendance tracking
+→ Role & leaderboard systems
+→ Google Sheets integrations
+
+Web Systems
+→ Secure admin panels
+→ API-first architecture
+→ Clean UI, strong backend logic
+</pre>
 
 ---
 
-## 📫 Connect With Me
+<h3>📊 GitHub at a Glance</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+</p>
+
+---
+
+<h3>📬 Reach Me</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>“Build useful things. Keep improving.”</i>
-</p>
+<p align="center"><i>Less noise. More impact.</i></p>
