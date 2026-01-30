@@ -63,16 +63,6 @@ Web Systems
 → Clean UI, strong backend logic
 </pre>
 
----
-
-<h3>📊 GitHub at a Glance</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat27-d&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
-</p>
-
----
-
 <h3>📬 Reach Me</h3>
 
 <p align="center">
