@@ -97,9 +97,8 @@ I'm an **Electronics & Computer Science undergraduate** passionate about buildin
 ## Resume
 
 📄 **Resume:**  
-Replace this link after uploading your resume.
 
-[**View Resume**]([https://your-resume-link](https://i.ibb.co/B2w5NZqP/resume-bharat.png))
+[**View Resume**](https://i.ibb.co/B2w5NZqP/resume-bharat.png)
 
 ---
 
