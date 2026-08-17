@@ -23,7 +23,7 @@ I build clean, practical, and scalable web applications.
 
 ### Connect
 
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+[GitHub](https://github.com/Bharat27-d) • [LinkedIn](https://linkedin.com/in/bharat-digrase-2064a4315)
 
 ---
 
